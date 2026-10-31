@@ -144,6 +144,7 @@ Diagnose connectivity issues, inspect network behavior, and investigate problems
 
 Test mobile interfaces, automate user journeys, and identify application issues.
 
+- [agent-qa](https://vostride.com) - Natural-language Android and iOS QA with memidex memory, recorded evidence and validated self-improvement. Requires Node.js 24+ and Appium/device setup.
 - [Maestro](https://github.com/mobile-dev-inc/Maestro) - Automate mobile UI tests using readable flow definitions. `Open Source`
 - [Appium](https://github.com/appium/appium) - Automate native, hybrid, and mobile web application tests. `Open Source`
 - [Appium Inspector](https://github.com/appium/appium-inspector) - Inspect mobile UI elements and debug automated tests. `Open Source`
